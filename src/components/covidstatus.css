@@ -1,0 +1,45 @@
+*{
+margin-left: 5%;
+margin-right: 5%;
+align-content: center;
+}
+.card{
+    background-color: rgb(49, 48, 48);
+    width:300px;
+    height:150px;
+    padding: 10px 10px 10px 10px;
+    list-style-type: none;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    align-content: center;
+
+}
+.card__main{
+    background-color:rgb(49, 48, 48);
+    padding: 1px 1px 1px 1px;
+    height:150px;
+    text-decoration: none;
+}
+.card__inner{
+    background-color:rgb(49, 48, 48);
+    text-align:center;
+    text-decoration: none;
+}
+.card__name{
+   font-size: 15px;
+   color: honeydew;
+}
+.card__total{
+    font-size: 35px;
+   color: honeydew;
+}
+
+.card:hover{
+    
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
